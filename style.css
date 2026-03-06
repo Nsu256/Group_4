@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* Start of the Footer Section */
+.footersection{
+    width: 100vw;
+    height: 60vh;
+    background-color: green;
+}
+
+.firstfooterinfo{
+    display: flex;
+    justify-content: space-around;
+}
+
+.footerinfoone button{
+    width: 180px;
+    height: 40px;
+    border-radius: 20px;
+    border: 2px solid white;
+    background-color: cyan;
+}
+
+
+.footerinfotwo nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footerinfotwoimages img{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    border-radius: 50%;
+    margin-right: 10px;
+}

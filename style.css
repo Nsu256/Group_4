@@ -7,8 +7,8 @@
 /* Start of the Footer Section */
 .footersection{
     width: 100vw;
-    height: 60vh;
-    background-color: green;
+    height: 70%;
+    background-color: rgb(35, 65, 128);
 }
 
 .firstfooterinfo{
@@ -35,9 +35,11 @@
     height: 40px;
     border-radius: 18px;
     border: 2px solid white;
-    background-color: cyan;
+    background-color: rgb(53, 235, 235);
     margin-top: 20px;
     margin-left: 50px;
+    color: white;
+    font-weight: 600;
 }
 
 .footerinfotwo h1{
@@ -79,4 +81,26 @@
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
+}
+
+.lastfooterinfo{
+    width: 100vw;
+    height: 5vh;
+    background-color: rgb(53, 235, 235);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0px 50px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.lastfooterinfo h4{
+    font-weight: 500;
+}
+
+.lastfooterinfo h3{
+    font-weight: 500;
 }

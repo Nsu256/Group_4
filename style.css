@@ -35,7 +35,7 @@
     height: 40px;
     border-radius: 18px;
     border: 2px solid white;
-    background-color: rgb(53, 235, 235);
+    background-color: rgb(23, 199, 199);
     margin-top: 20px;
     margin-left: 50px;
     color: white;
@@ -86,7 +86,7 @@
 .lastfooterinfo{
     width: 100vw;
     height: 5vh;
-    background-color: rgb(53, 235, 235);
+    background-color: rgb(23, 199, 199);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -95,12 +95,14 @@
     padding: 0px 50px;
     font-size: 16px;
     margin-top: 20px;
+    border-top: 2px solid white;
 }
 
 .lastfooterinfo h4{
-    font-weight: 500;
+    font-weight: 400;
 }
 
 .lastfooterinfo h3{
     font-weight: 500;
 }
+/* End of the Footer section */

@@ -10,6 +10,14 @@
     width: 100vw;
     height: 10vh;
     background-color: red;
+    display: flex;
+    justify-content: space-around;
+}
+
+.navlogo img{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
 }
 
 /* Start of the Footer Section */

@@ -26,7 +26,7 @@
     color: black;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
-    margin-right: 20px;
+    margin-right: 30px;
 }
 
 .navbtn button{
@@ -35,8 +35,11 @@
     background-color: blue;
     border-radius: 20px;
     color: white;
-    fon
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    border: none;
 }
+/* End of the navigation bar */
 
 /* Start of the Footer Section */
 /* .footersection{

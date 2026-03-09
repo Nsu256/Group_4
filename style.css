@@ -29,6 +29,15 @@
     margin-right: 20px;
 }
 
+.navbtn button{
+    width: 150px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 20px;
+    color: white;
+    fon
+}
+
 /* Start of the Footer Section */
 /* .footersection{
     width: 100vw;

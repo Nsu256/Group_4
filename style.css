@@ -41,6 +41,45 @@
 }
 /* End of the navigation bar */
 
+/* Start of the Hero section */
+.herosection{
+    width: 100vw;
+    height: 100vh;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+}
+
+.herocontent{
+    width: 95%;
+    height: 100%;
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.heroinfo{
+    width: 600px;
+    height: 700px;
+    background-color: yellow;
+}
+
+.heroinfo1 h1{
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.heroinfo1 h1 span{
+    color: navy;
+}
+
+.heroimage{
+    width: 600px;
+    height: 770px;
+    background-color: black;
+}
+
 /* Start of the Footer Section */
 /* .footersection{
     width: 100vw;

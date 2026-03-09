@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+
+/* Start of the Navigation bar */
+.navigationbar{
+    width: 100vw;
+    height: 10vh;
+    background-color: red;
+}
+
 /* Start of the Footer Section */
 /* .footersection{
     width: 100vw;

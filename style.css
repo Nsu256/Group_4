@@ -144,6 +144,11 @@
     background-color: blue;
 }
 
+.servicescontent h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
 /* Start of the Footer Section */
 /* .footersection{
     width: 100vw;

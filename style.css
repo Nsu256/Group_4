@@ -53,7 +53,7 @@
 .herocontent{
     width: 95%;
     height: 100%;
-    background: linear-gradient(125deg, rgb(236, 233, 233), rgb(38, 78, 237));
+    background: linear-gradient(130deg, rgb(228, 240, 245), rgb(0, 132, 255));
     display: flex;
     justify-content: space-between;
     border-radius: 20px;

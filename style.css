@@ -127,6 +127,22 @@
     background-color: black;
     margin-right: 50px;
 }
+/* End of the Hero Section */
+
+/* Start of the Services Section */
+.servicesection{
+    width: 100vw;
+    height: 100vh;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+}
+
+.servicescontent{
+    width: 95%;
+    height: 100%;
+    background-color: blue;
+}
 
 /* Start of the Footer Section */
 /* .footersection{

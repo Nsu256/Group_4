@@ -8,8 +8,8 @@
 
 /* Start of the Navigation bar */
 .navigationbar{
-    width: 100vw;
-    height: 10vh;
+    min-width: 100vw;
+    min-height: 10vh;
     background-color: white;
     display: flex;
     justify-content: space-around;
@@ -43,8 +43,8 @@
 
 /* Start of the Hero section */
 .herosection{
-    width: 100vw;
-    height: 100vh;
+    min-width: 100vw;
+    min-height: 100vh;
     background-color: white;
     display: flex;
     justify-content: center;
@@ -61,15 +61,15 @@
 
 .heroinfo{
     width: 600px;
-    height: 770px;
-    margin-left: 50px;
+    height: 630px;
+    margin-left: 40px;
 }
 
 .heroinfo1 h1{
     font-size: 60px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: black;
-    margin-top: 200px;
+    margin-top: 100px;
 }
 
 .heroinfo1 h1 span{
@@ -122,17 +122,17 @@
 }
 
 .heroimage{
-    width: 700px;
-    height: 770px;
+    width: 600px;
+    height: 630px;
     background-color: black;
-    margin-right: 50px;
+    margin-right: 40px;
 }
 /* End of the Hero Section */
 
 /* Start of the Services Section */
 .servicesection{
-    width: 100vw;
-    height: 100vh;
+    min-width: 100vw;
+    min-height: 100vh;
     background-color: white;
     display: flex;
     justify-content: center;
@@ -237,8 +237,8 @@
 
 /* Start of the Doctor`s Working Days Section */
 .doctorsworkingsection{
-    width: 100vw;
-    height: 100vh;
+    min-width: 100vw;
+    min-height: 100vh;
     background-color: white;
     display: flex;
     justify-content: center;

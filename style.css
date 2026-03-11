@@ -335,7 +335,7 @@ td{
 }
 
 .doctorcard{
-    width: 350px;
+    width: 300px;
     height: 500px;
     background-color: white;
     display: flex;
@@ -345,8 +345,8 @@ td{
 }
 
 .doctorcard img{
-    width: 350px;
-    height: 450px;
+    width: 300px;
+    height: 400px;
     background-color: rgb(154, 220, 250);
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;

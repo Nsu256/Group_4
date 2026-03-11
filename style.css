@@ -338,6 +338,33 @@ td{
     width: 350px;
     height: 500px;
     background-color: pink;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.doctorcard img{
+    width: 350px;
+    height: 450px;
+    background-color: purple;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.doctorcard p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: black;
+    margin-top: 3px;
+    font-weight: 500;
+}
+
+.doctorcard h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    color: black;
+    font-weight: 300;
 }
 /* End of the Doctor`s Section */
 

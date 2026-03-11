@@ -168,7 +168,7 @@
 .servicescards .card{
     width: 200px;
     height: 200px;
-    background-color: rgb(176, 200, 211);
+    background-color:  rgb(154, 220, 250);
     border-radius: 20px;
 }
 
@@ -231,7 +231,7 @@
 .serviceinfoimage img{
     width: 500px;
     height: 401px;
-    background-color: pink;
+    background-color:  rgb(154, 220, 250);
 }
 /* End of the Services Section */
 
@@ -270,7 +270,7 @@
     margin-top: 30px;
     border-collapse: collapse;
     margin-left: 140px;
-    box-shadow: 0px 0px 20px rgb(176, 200, 211);
+    box-shadow: 0px 0px 20px  rgb(154, 220, 250);
 }
 
 th{
@@ -302,7 +302,7 @@ td{
 .doctorsection{
     min-width: 100vw;
     height: 100vh;
-    background-color: blue;
+    background-color: white;
     display: flex;
     justify-content: center;
 }
@@ -310,7 +310,7 @@ td{
 .doctorcontent{
     width: 95%;
     height: 100%;
-    background-color: red;
+    background-color: white;
 }
 
 .doctorcontent h1{
@@ -337,7 +337,7 @@ td{
 .doctorcard{
     width: 350px;
     height: 500px;
-    background-color: pink;
+    background-color: white;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -347,7 +347,7 @@ td{
 .doctorcard img{
     width: 350px;
     height: 450px;
-    background-color: purple;
+    background-color: rgb(154, 220, 250);
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
 }

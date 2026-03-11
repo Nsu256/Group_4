@@ -238,7 +238,7 @@
 /* Start of the Doctor`s Working Days Section */
 .doctorsworkingsection{
     width: 100vw;
-    height: 100vh;
+    min-height: 100vh;
     background-color: white;
     display: flex;
     justify-content: center;
@@ -301,7 +301,7 @@ td{
 /* Start of the Doctor`s Section */
 .doctorsection{
     min-width: 100vw;
-    height: 100vh;
+    min-height: 100vh;
     background-color: white;
     display: flex;
     justify-content: center;

@@ -8,8 +8,8 @@
 
 /* Start of the Navigation bar */
 .navigationbar{
-    min-width: 100vw;
-    min-height: 10vh;
+    width: 100vw;
+    height: 10vh;
     background-color: white;
     display: flex;
     justify-content: space-around;
@@ -43,8 +43,8 @@
 
 /* Start of the Hero section */
 .herosection{
-    min-width: 100vw;
-    min-height: 100vh;
+    width: 100vw;
+    height: 100vh;
     background-color: white;
     display: flex;
     justify-content: center;
@@ -131,8 +131,8 @@
 
 /* Start of the Services Section */
 .servicesection{
-    min-width: 100vw;
-    min-height: 100vh;
+    width: 100vw;
+    height: 100vh;
     background-color: white;
     display: flex;
     justify-content: center;
@@ -237,8 +237,8 @@
 
 /* Start of the Doctor`s Working Days Section */
 .doctorsworkingsection{
-    min-width: 100vw;
-    min-height: 100vh;
+    width: 100vw;
+    height: 100vh;
     background-color: white;
     display: flex;
     justify-content: center;
@@ -297,6 +297,22 @@ td{
     border: 2px solid black;
 }
 /* End of the Doctor`s Working Days Section */
+
+/* Start of the Doctor`s Section */
+.doctorsection{
+    min-width: 100vw;
+    height: 100vh;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+}
+
+.doctorcontent{
+    width: 95%;
+    height: 100%;
+    background-color: red;
+}
+/* End of the Doctor`s Section */
 
 /* Start of the Footer Section */
 /* .footersection{

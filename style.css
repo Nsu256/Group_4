@@ -397,6 +397,36 @@ td{
     text-align: center;
 }
 
+.commentcards{
+    display: flex;
+    justify-content: space-between;
+}
+
+.commentcard1{
+    width: 460px;
+    height: 400px;
+    background-color: pink;
+}
+
+.cardcontent{
+    display: flex;
+}
+
+.cardcontent img{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    border-radius: 50%;
+}
+
+.cardcontenttext{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 5px;
+    fontfam
+}
+
 /* Start of the Footer Section */
 /* .footersection{
     width: 100vw;

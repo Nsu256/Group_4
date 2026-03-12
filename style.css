@@ -368,6 +368,21 @@ td{
 }
 /* End of the Doctor`s Section */
 
+/* Start of the Comment Section */
+.commentsection{
+    width: 100vw;
+    min-height: 100vh;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.commentcmments{
+    width: 95%;
+    height: 100%;
+    background-color: blue;
+}
+
 /* Start of the Footer Section */
 /* .footersection{
     width: 100vw;

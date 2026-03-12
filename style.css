@@ -450,6 +450,21 @@ td{
 }
 /* End of the Comment Section */
 
+/* Start of the Information Section */
+.informationsection{
+    width: 100vw;
+    height: 100vh;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.informationcontent{
+    width: 95%;
+    height: 100%;
+    background-color: blue;
+}
+
 /* Start of the Footer Section */
 /* .footersection{
     width: 100vw;

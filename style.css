@@ -371,8 +371,8 @@ td{
 /* Start of the Comment Section */
 .commentsection{
     width: 100vw;
-    height: 100vh;
-    background-color: red;
+    height: 80vh;
+    background-color: white;
     display: flex;
     justify-content: center;
 }
@@ -380,7 +380,7 @@ td{
 .commentcomments{
     width: 95%;
     height: 100%;
-    background-color: blue;
+    background-color: white;
 }
 
 .commentcomments h1{
@@ -388,6 +388,7 @@ td{
     font-size: 60px;
     color: navy;
     text-align: center;
+    margin-top: 40px;
 }
 
 .commentcomments .commentdetails{
@@ -401,14 +402,15 @@ td{
 .commentcards{
     display: flex;
     justify-content: space-between;
-    margin-top: 30px;
+    margin-top: 40px;
 }
 
 .commentcard1{
     width: 350px;
     height: 300px;
-    background-color: pink;
+    background-color: rgb(0, 132, 255);
     border-radius: 20px;
+    box-shadow: 0px 0px 10px navy;
 }
 
 .cardcontent{
@@ -420,7 +422,7 @@ td{
 .cardcontent img{
     width: 100px;
     height: 100px;
-    background-color: purple;
+    background-color: black;
     border-radius: 50%;
 }
 
@@ -431,7 +433,7 @@ td{
     margin-left: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
-    color: black;
+    color: white;
 }
 
 .cardcontenttext h5{
@@ -441,9 +443,10 @@ td{
 .commentcard1 p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
-    color: black;
+    color: white;
     margin-top: 20px;
     margin-left: 20px;
+    font-weight: 400;
 }
 
 /* Start of the Footer Section */

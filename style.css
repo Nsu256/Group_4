@@ -12,7 +12,7 @@ html{
 
 /* Start of the Navigation bar */
 .navigationbar{
-    width: 100vw;
+    width: 100%;
     height: 10vh;
     background-color: white;
     display: flex;
@@ -38,7 +38,7 @@ html{
 .navbtn button{
     width: 150px;
     height: 50px;
-    background-color: blue;
+    background-color: rgb(0, 132, 255);
     border-radius: 20px;
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -47,9 +47,11 @@ html{
 }
 /* End of the navigation bar */
 
+
+
 /* Start of the Hero section */
 .herosection{
-    width: 100vw;
+    width: 100%;
     height: 100vh;
     background-color: white;
     display: flex;
@@ -103,7 +105,7 @@ html{
 }
 
 .herobtn .herobtn1{
-    background-color: blue;
+    background-color: rgb(0, 132, 255);
     border: none;
     color: white;
 }
@@ -136,9 +138,11 @@ html{
 }
 /* End of the Hero Section */
 
+
+
 /* Start of the Services Section */
 .servicesection{
-    width: 100vw;
+    width: 100%;
     height: 100vh;
     background-color: white;
     display: flex;
@@ -225,7 +229,7 @@ html{
 .serviceinfo1 button{
     width: 150px;
     height: 40px;
-    background-color: blue;
+    background-color: rgb(0, 132, 255);
     color: white;
     font-weight: 500;
     margin-top: 20px;
@@ -242,9 +246,11 @@ html{
 }
 /* End of the Services Section */
 
+
+
 /* Start of the Doctor`s Working Days Section */
 .doctorsworkingsection{
-    width: 100vw;
+    width: 100%;
     min-height: 100vh;
     background-color: white;
     display: flex;
@@ -305,9 +311,11 @@ td{
 }
 /* End of the Doctor`s Working Days Section */
 
+
+
 /* Start of the Doctor`s Section */
 .doctorsection{
-    min-width: 100vw;
+    min-width: 100%;
     min-height: 100vh;
     background-color: white;
     display: flex;
@@ -375,9 +383,11 @@ td{
 }
 /* End of the Doctor`s Section */
 
+
+
 /* Start of the Comment Section */
 .commentsection{
-    width: 100vw;
+    width: 100%;
     height: 80vh;
     background-color: white;
     display: flex;
@@ -458,9 +468,11 @@ td{
 }
 /* End of the Comment Section */
 
+
+
 /* Start of the Information Section */
 .informationsection{
-    width: 100vw;
+    width: 100%;
     height: 50vh;
     background-color: white;
     display: flex;
@@ -508,9 +520,11 @@ td{
 }
 /* End of the Information Section */
 
+
+
 /* Start of the Form Section */
 .formsection{
-    width: 100vw;
+    width: 100%;
     height: 100vh;
     background-color: white;
     display: flex;
@@ -676,11 +690,13 @@ td{
 }
 /* End of the Form Section */
 
+
+
 /* Start of the Footer Section */
 .footersection{
-    width: 100vw;
+    width: 100%;
     height: 70%;
-    background-color: rgb(35, 65, 128);
+    background-color: navy;
     margin-top: 50px;
 }
 
@@ -708,7 +724,7 @@ td{
     height: 40px;
     border-radius: 18px;
     border: 2px solid white;
-    background-color: rgb(23, 199, 199);
+    background-color: rgb(0, 132, 255);
     margin-top: 20px;
     margin-left: 50px;
     color: white;
@@ -735,6 +751,7 @@ td{
     color: white;
     font-size: 16px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
 }
 
 .footerinfotwoimages img{
@@ -757,9 +774,9 @@ td{
 }
 
 .lastfooterinfo{
-    width: 100vw;
+    width: 100%;
     height: 5vh;
-    background-color: rgb(23, 199, 199);
+    background-color: rgb(0, 132, 255);
     display: flex;
     justify-content: space-between;
     align-items: center;

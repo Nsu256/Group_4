@@ -510,9 +510,43 @@ td{
 }
 
 .formconent{
-    width: 95%;
+    width: 80%;
     height: 100%;
     background-color: pink;
+}
+
+.formheader{
+    display: flex;
+}
+
+.formlogo{
+    width: 400px;
+    height: 100px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formlogo img{
+    width: 300px;
+    height: 80px;
+    background-color: purple;
+}
+
+.formheadinfo{
+    width: 880px;
+    height: 100px;
+    background-color: greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formheadinfo h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    color: navy;
 }
 /* End of the Form Section */
 

@@ -596,6 +596,26 @@ td{
     border: 1px solid black;
     margin-left: 30px;
 }
+
+.secondformbody{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.secondformbodyleftsidehead{
+    width: 542px;
+    height: 60px;
+    background-color: green;
+    color: white;
+}
+
+.secondformbodyleftsidehead h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    margin-left: 20px;
+    padding-top: 10px;
+}
 /* End of the Form Section */
 
 /* Start of the Footer Section */

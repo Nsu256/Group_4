@@ -500,6 +500,22 @@ td{
 }
 /* End of the Information Section */
 
+/* Start of the Form Section */
+.formsection{
+    width: 100vw;
+    height: 100vh;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.formconent{
+    width: 95%;
+    height: 100%;
+    background-color: pink;
+}
+/* End of the Form Section */
+
 /* Start of the Footer Section */
 /* .footersection{
     width: 100vw;

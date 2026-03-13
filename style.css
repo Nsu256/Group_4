@@ -669,10 +669,11 @@ td{
 /* End of the Form Section */
 
 /* Start of the Footer Section */
-/* .footersection{
+.footersection{
     width: 100vw;
     height: 70%;
     background-color: rgb(35, 65, 128);
+    margin-top: 50px;
 }
 
 .firstfooterinfo{
@@ -768,5 +769,5 @@ td{
 
 .lastfooterinfo h3{
     font-weight: 500;
-} */
+}
 /* End of the Footer section */

@@ -549,7 +549,12 @@ td{
     color: navy;
 }
 
-
+.formbody{
+    background-color: blue;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+}
 /* End of the Form Section */
 
 /* Start of the Footer Section */
